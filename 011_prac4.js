@@ -17,7 +17,7 @@ let avg=sum/marks.length;
 console.log("avg is ",avg);
 console.log(`avg marks of clas is : ${avg}`);
 
-
+*/
 
 //p2
 
@@ -28,7 +28,7 @@ for (let element of prices) {
 }
 
 console.log(prices);
-*/
+
 
 let items=[250,645,300,900,50];
 
