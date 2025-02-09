@@ -21,25 +21,30 @@ console.log(`avg marks of clas is : ${avg}`);
 
 //p2
 
-let prices=[250,645,300,900,50];
-
-for (let element of prices) {
-    element=element-(element-(10/100));
-}
-
-console.log(prices);
-
-
 let items=[250,645,300,900,50];
 
 let i=0;
+/*
+console.log("----- using for of loop -----");
 
 for (let val of items) {
     
-    // console.log(`value at indes ${i} =${val}`);
     let offer=val / 10;
     items[i]=items[i]-offer;
     console.log(`value ater offer : ${items[i]}`);
     i++;
+}
+
+console.log(items);
+*/
+
+console.log("----- using for loop -----");
+for(let i=0;i<items.length ;i++)
+{
+    let offer = items[i]/10;
+    items[i]-=offer;
+    // console.log(`array after offer : ${items[i]}`);
     
 }
+
+console.log(items);
