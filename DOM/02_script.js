@@ -45,9 +45,10 @@ console.dir(firstclass);
 allclass=document.querySelectorAll(".h-class");
 console.dir(allclass);
 
-*/  
 
 console.log("--- query selector for id ----");
 
 firstid = document.querySelector("#myid");
 console.dir(firstid);
+
+*/
