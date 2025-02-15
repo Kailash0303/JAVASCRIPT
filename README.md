@@ -10,3 +10,4 @@
 // 15-02-2025
 1) learned classes / objects / construtor 
 2) learned inheritance 
+3) learned try - catch block
