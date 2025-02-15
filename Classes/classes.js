@@ -28,13 +28,14 @@ class ToytaCar{
 let fortuner = new ToytaCar("fortuner5.0" , 10); // brandname = fortuner5.0
 console.log(fortuner);
 
-let lexus = new ToytaCar("lexus" , 20); // undefined no brand name passed
+let lexus = new ToytaCar("lexus" , 20 ); // undefined no brand name passed
 console.log(lexus);
 
 
 
 // let fortuner = new ToytaCar();
 // let lexus = new ToytaCar();
+// let lexus = new ToytaCar("lexus" );  //no error only if 1 arugmrnt is passed
 
 /*
 lexus.setbrandName("lexus1.0")
