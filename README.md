@@ -11,3 +11,4 @@
 1) learned classes / objects / construtor 
 2) learned inheritance 
 3) learned try - catch block
+4) completed practise set 1
