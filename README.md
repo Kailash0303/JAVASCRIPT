@@ -12,3 +12,9 @@
 2) learned inheritance 
 3) learned try - catch block
 4) completed practise set 1
+
+
+// 16-02-2025
+
+1) learned callback / callBackHell
+2) learned Promises
