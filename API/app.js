@@ -1,7 +1,7 @@
 // using api
 const URL = "https://cat-fact.herokuapp.com/facts";
 
-
+//async function
 const getFacts =async ()=>{
     console.log("getting data...");
     let response = await fetch(URL);
