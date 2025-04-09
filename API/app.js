@@ -136,6 +136,7 @@
 //only for commit 9/4/25 -3
 //only for commit 9/4/25 -4
 //only for commit 9/4/25 -5
+//only for commit 9/4/25 -6
 
 
 const URL = "https://cat-fact.herokuapp.com/facts";
