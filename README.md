@@ -18,3 +18,5 @@
 
 1) learned callback / callBackHell
 2) learned Promises
+
+3) Revising
