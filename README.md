@@ -16,15 +16,14 @@
 
 // 16-02-2025
 
-1) learned callback / callBackHell
-2) learned Promises
-
-3) Revising
-4) Revising 2
-5) Revising 3
-6) Revising 4
-7) Revising 5
-8) Revising 6
+1) learned callback / callBackHell 1
+2) learned Promises 2
+3) Revising 3
+4) Revising 4
+5) Revising 5
+6) Revising 6
+7) Revising 7
+8) Revising 8
 9) Revising 9
 10) Revising 10
 11) Revising 11
@@ -32,12 +31,9 @@
 13) Revising 13
 14) Revising 14
 15) Revising 15
-
-
-
-16) Revising 15
-17) Revising 16
-18) Revising 17
-19) Revising 18
+16) Revising 16
+17) Revising 17
+18) Revising 18
+19) Revising 19
     
     
