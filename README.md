@@ -14,8 +14,6 @@
 3) learned try - catch block
 4) completed practise set 1
 
-// 16-02-2025
-
 1) learned callback / callBackHell 1
 2) learned Promises 2
 3) Revising 3
